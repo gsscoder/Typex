@@ -6,7 +6,7 @@ I've started it both as a learning experience and for use in production projects
 
 ## Maybe type
 
-For now this is the only type implemented. It is an option type, like **Haskell** `Data.Maybe`.
+For now `Maybe` is the only type implemented. It is an option type, essentially **Haskell** `Data.Maybe`.
 
 ```ts
 import * as maybe from 'maybe'
